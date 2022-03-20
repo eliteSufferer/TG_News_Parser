@@ -1,0 +1,92 @@
+{
+    "530670": {
+        "article_date_timestamp": 1647669950.0,
+        "article_title": "Разработчик node-ipc подвергся жесткому преследованию",
+        "article_url": "https://www.securitylab.ru/news/530670.php",
+        "article_desc": "Разработчик отрицает что его код удаляет информацию, несмотря на проведенный анализ кода"
+    },
+    "530669": {
+        "article_date_timestamp": 1647669141.0,
+        "article_title": "США хотят отключить Россию от GPS",
+        "article_url": "https://www.securitylab.ru/news/530669.php",
+        "article_desc": "заявил в субботу гендиректор \"Роскосмоса\" Дмитрий Рогозин."
+    },
+    "530671": {
+        "article_date_timestamp": 1647667782.0,
+        "article_title": "Ботнет DirtyMoe обзавелся червеобразным модулем для быстрого распространения",
+        "article_url": "https://www.securitylab.ru/news/530671.php",
+        "article_desc": "Один модуль может генерировать и атаковать сотни тысяч частных и общедоступных IP-адресов в день."
+    },
+    "530668": {
+        "article_date_timestamp": 1647661047.0,
+        "article_title": "Сбер призвал пользователей воздержаться от обновления ПО",
+        "article_url": "https://www.securitylab.ru/news/530668.php",
+        "article_desc": "участились случаи внедрения в свободно распространяемое ПО «провокационного медиаконтента»."
+    },
+    "530667": {
+        "article_date_timestamp": 1647660361.0,
+        "article_title": "Минцифры принимает экстренные меры по организации и поддержке российских цифровых платформ",
+        "article_url": "https://www.securitylab.ru/news/530667.php",
+        "article_desc": "в связи со сложившейся политической ситуацией"
+    },
+    "530666": {
+        "article_date_timestamp": 1647659155.0,
+        "article_title": "Роскомандзор опять обвинил YouTube в цензуре",
+        "article_url": "https://www.securitylab.ru/news/530666.php",
+        "article_desc": "видеохостинг YouTube стал инструментом в антироссийской информационной войне"
+    },
+    "530665": {
+        "article_date_timestamp": 1647658632.0,
+        "article_title": "НКЦКИ предупредил о кампании киберпреступников, направленной на внедрение вредоносного ПО Dark Crystal Rat в информационные системы российских организаций",
+        "article_url": "https://www.securitylab.ru/news/530665.php",
+        "article_desc": "уровень угрозы рассматривается как критический"
+    },
+    "530664": {
+        "article_date_timestamp": 1647611666.0,
+        "article_title": "YouTube в России в ближайшее время будет заблокирован",
+        "article_url": "https://www.securitylab.ru/news/530664.php",
+        "article_desc": "YouTube повторит судьбу Meta в России уже очень скоро."
+    },
+    "530663": {
+        "article_date_timestamp": 1647599102.0,
+        "article_title": "Партнеры BlackMatter и REvil собрали группу BlackCat, чтобы продолжать RaaS-бизнес",
+        "article_url": "https://www.securitylab.ru/news/530663.php",
+        "article_desc": "По словам специалистов BlackCat – пример вертикального расширения бизнеса."
+    },
+    "530662": {
+        "article_date_timestamp": 1647596888.0,
+        "article_title": "Вымогатели стали чаще работать сообща и заключать франчайзинговые сделки",
+        "article_url": "https://www.securitylab.ru/news/530662.php",
+        "article_desc": "Примерно 40 организаций, скомпрометированных в 2020 году, в 2021 году вновь стали жертвой кибератаки, но с участием другой группировки."
+    },
+    "530661": {
+        "article_date_timestamp": 1647596460.0,
+        "article_title": "Эксперты рассказали о брокере начального доступа Exotic Lily, чьими услугами пользуются Conti",
+        "article_url": "https://www.securitylab.ru/news/530661.php",
+        "article_desc": "Группа поддерживает баланс между работой и личной жизнью, поскольку ее активность типична для рабочего дня с 9:00 до 17:00."
+    },
+    "530658": {
+        "article_date_timestamp": 1647589938.0,
+        "article_title": "Европейские агентства предупредили о сбоях в работе GPS-систем самолетов",
+        "article_url": "https://www.securitylab.ru/news/530658.php",
+        "article_desc": "Перебои в работе GNSS возникли из-за осуществления глушения и/или возможного спуфинга возле территории Украины."
+    },
+    "530657": {
+        "article_date_timestamp": 1647588777.0,
+        "article_title": "Превратится ли нынешнее киберпротивостояние в полномасштабную кибервойну?",
+        "article_url": "https://www.securitylab.ru/news/530657.php",
+        "article_desc": "Западные эксперты задаются вопросом, начнет ли Россия разрушительные кибератаки."
+    },
+    "530655": {
+        "article_date_timestamp": 1647586489.0,
+        "article_title": "Роскомнадзор требует от YouTube прекратить распространение угроз в адрес граждан Российской Федерации",
+        "article_url": "https://www.securitylab.ru/news/530655.php",
+        "article_desc": "Администрации интернет-ресурсов выбрали путь конфронтации"
+    },
+    "530656": {
+        "article_date_timestamp": 1647582525.0,
+        "article_title": "ASUS предупредила об атаках вредоносного ПО Cyclops Blink на маршрутизаторы",
+        "article_url": "https://www.securitylab.ru/news/530656.php",
+        "article_desc": "Cyclops Blink обеспечивает персистентность на устройстве, предоставляя точку удаленного доступа к скомпрометированным сетям."
+    }
+}
