@@ -1,22 +1,4 @@
 {
-    "530670": {
-        "article_date_timestamp": 1647669950.0,
-        "article_title": "Разработчик node-ipc подвергся жесткому преследованию",
-        "article_url": "https://www.securitylab.ru/news/530670.php",
-        "article_desc": "Разработчик отрицает что его код удаляет информацию, несмотря на проведенный анализ кода"
-    },
-    "530669": {
-        "article_date_timestamp": 1647669141.0,
-        "article_title": "США хотят отключить Россию от GPS",
-        "article_url": "https://www.securitylab.ru/news/530669.php",
-        "article_desc": "заявил в субботу гендиректор \"Роскосмоса\" Дмитрий Рогозин."
-    },
-    "530671": {
-        "article_date_timestamp": 1647667782.0,
-        "article_title": "Ботнет DirtyMoe обзавелся червеобразным модулем для быстрого распространения",
-        "article_url": "https://www.securitylab.ru/news/530671.php",
-        "article_desc": "Один модуль может генерировать и атаковать сотни тысяч частных и общедоступных IP-адресов в день."
-    },
     "530668": {
         "article_date_timestamp": 1647661047.0,
         "article_title": "Сбер призвал пользователей воздержаться от обновления ПО",
@@ -88,5 +70,29 @@
         "article_title": "ASUS предупредила об атаках вредоносного ПО Cyclops Blink на маршрутизаторы",
         "article_url": "https://www.securitylab.ru/news/530656.php",
         "article_desc": "Cyclops Blink обеспечивает персистентность на устройстве, предоставляя точку удаленного доступа к скомпрометированным сетям."
+    },
+    "530670": {
+        "article_date_timestamp": 1647669950.0,
+        "article_title": "Разработчик node-ipc подвергся жесткому преследованию",
+        "article_url": "https://www.securitylab.ru/news/530670.php",
+        "article_desc": "Разработчик отрицает что его код удаляет информацию, несмотря на проведенный анализ кода"
+    },
+    "530672": {
+        "article_date_timestamp": 1647750044.0,
+        "article_title": "Экс-эксперт Магатэ: ядерная война может начаться из-за кибератаки",
+        "article_url": "https://www.securitylab.ru/news/530672.php",
+        "article_desc": "Лидеры ядерных держав не намерены начинать ядерную войну, однако инцидент может произойти из-за несчастного случая или какого-либо постороннего вмешательства."
+    },
+    "530669": {
+        "article_date_timestamp": 1647669141.0,
+        "article_title": "США хотят отключить Россию от GPS",
+        "article_url": "https://www.securitylab.ru/news/530669.php",
+        "article_desc": "заявил в субботу гендиректор \"Роскосмоса\" Дмитрий Рогозин."
+    },
+    "530671": {
+        "article_date_timestamp": 1647667782.0,
+        "article_title": "Ботнет DirtyMoe обзавелся червеобразным модулем для быстрого распространения",
+        "article_url": "https://www.securitylab.ru/news/530671.php",
+        "article_desc": "Один модуль может генерировать и атаковать сотни тысяч частных и общедоступных IP-адресов в день."
     }
 }
