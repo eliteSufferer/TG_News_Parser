@@ -62,8 +62,9 @@ async def news_per_time():
                        f"{hlink('Читать дальше...', v['article_url'])}"
                 await bot.send_message(user_id, news)
         else:
-            continue
-        await asyncio.sleep(5)
+            await bot.send_message(user_id, "Пока свежих новостей нет", disable_notification=True)
+            # continue
+        await asyncio.sleep(1800)
 
 if __name__ == "__main__":
     loop = asyncio.get_event_loop()

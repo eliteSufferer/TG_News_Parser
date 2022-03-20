@@ -89,6 +89,18 @@
         "article_url": "https://www.securitylab.ru/news/530669.php",
         "article_desc": "заявил в субботу гендиректор \"Роскосмоса\" Дмитрий Рогозин."
     },
+    "530674": {
+        "article_date_timestamp": 1647750988.0,
+        "article_title": "Хакеры украли $800 000 у владельцев NFT Rare Bears",
+        "article_url": "https://www.securitylab.ru/news/530674.php",
+        "article_desc": "Недавно запущенная коллекция NFT под названием Rare Bears оказалась под ударом мошенников."
+    },
+    "530673": {
+        "article_date_timestamp": 1647750244.0,
+        "article_title": "За десять дней блокировки число пользователей Facebook снизилось более чем на 40%, за один день Instagram — на 16%",
+        "article_url": "https://www.securitylab.ru/news/530673.php",
+        "article_desc": "социальными сетями по-прежнему пользуются миллионы россиян"
+    },
     "530671": {
         "article_date_timestamp": 1647667782.0,
         "article_title": "Ботнет DirtyMoe обзавелся червеобразным модулем для быстрого распространения",
