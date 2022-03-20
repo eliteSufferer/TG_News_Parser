@@ -2,7 +2,7 @@ import telebot
 import requests
 import time
 from bs4 import BeautifulSoup
-token = "5289266152:AAGWms-L_npYxGTmN_EaARLepZ3XTChfFg8"
+token = "token"
 id_channel = "@news_about_e"
 bot = telebot.TeleBot(token)
 
